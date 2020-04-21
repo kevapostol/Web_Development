@@ -19,8 +19,8 @@ Full-stack web development training (MERN)
 Project is: <em>in progress</em>
 
 ## Inspiration
-I want to get into full-stack web development someday. I'm taking a course from Dev Slopes at 
-<a href="https://www.udemy.com/user/devslopes/">Udemy</a> by taking <strong> Beginner Full-stack
+I'm taking a course from Dev Slopes at 
+<a href="https://www.udemy.com/user/devslopes/">Udemy</a> by taking the <strong> Beginner Full-stack
  Web Development: HTML, CSS, React & Node</strong>
 
 ## Contact
